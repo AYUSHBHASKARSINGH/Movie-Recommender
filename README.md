@@ -17,6 +17,8 @@ To use this script, you'll need the following:
 
 ## INSTALLATION
 To use the Weather Application Script, follow these steps:
+Download dataset from 
+https://cciitpatna-my.sharepoint.com/:f:/g/personal/ayush_2101mc56_iitp_ac_in/Ev0err0IQ7tHtbCyUogMzi4BT2qSbapw7Mq8QfQhZFeEtQ?e=Jo8Og0
 
 Make a virtual environment
 1. Clone the repository or download the code file.
